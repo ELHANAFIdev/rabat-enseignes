@@ -44,6 +44,7 @@ export default function AboutSection({ onOpenQuoteModal }: AboutSectionProps) {
                     <h4 className="text-sm font-bold text-white">Fabrication Locale Intégrée</h4>
                     <p className="text-xs text-zinc-400 mt-0.5">
                       Découpe numérique, pliage, soudure et assemblage
+                      
                     </p>
                   </div>
                 </div>
